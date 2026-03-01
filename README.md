@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe Alexandre 
 
 - 🔭 Hoje trabalho como front-end
-- 🌱 html |css | java script
+- 🌱 html | css | java script
 - 📫 Contrate-me no email: febarrosbatista@gmail.com
 - 😄 Pronouns: ele/dele
 
