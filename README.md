@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho como front-end
 - 🌱 html | css | java script
 - 📫 Contrate-me no email: febarrosbatista@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
